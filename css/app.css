@@ -256,6 +256,9 @@ h4{
         transform: rotate(6deg) scale(1.2);
         
     }
+    .review_auth{
+        font-weight: bold;
+    }
     .review_container{
         padding: 1rem 2rem;
         border-radius: 1rem;
